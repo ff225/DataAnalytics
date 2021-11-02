@@ -3,4 +3,4 @@
 1a Esercitazione 
 2a Esercitazione
 
-BerlinAirBnb: Consegna esercitazione per voto
+BerlinAirBnb: Consegna esercitazione
